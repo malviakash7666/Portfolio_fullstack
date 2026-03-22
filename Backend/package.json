@@ -12,6 +12,9 @@
     "db:drop": "npx sequelize-cli db:drop",
     "migration:create": "npx sequelize-cli migration:create --name"
   },
+  "engines": {
+  "node": "20.x"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
